@@ -1,0 +1,1 @@
+export * from './SettingsAuthorization1.component';

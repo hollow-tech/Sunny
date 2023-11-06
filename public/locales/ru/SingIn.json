@@ -1,0 +1,7 @@
+{
+    "SignInTitle": "Вход в систему",
+    "SignInInputPasswordPlaceholder": "Пароль",
+    "ButtonSignIn": "Войти",
+    "ButtonSignUp": "Регистрация",
+    "ButtonForgoted": "Забыли пароль?"
+}

@@ -1,0 +1,18 @@
+{
+    "nicknameTitle": "Ваш никнейм",
+    "nicknameText": "Установите имя вашего профиля",
+    "nicknameInputPlaceholder": "Никнейм",
+    "inputsText": "Введите ваш",
+    "inputPlaceholderInputEmail": "Введите ваш E-mail",
+    "inputPlaceholderRepeatEmail": "Повторите ваш E-mail",
+    "inputPlaceholderControlWord": "Введите ваш E-mail",
+    "ButtonSaveOne": "Сохранить",
+    "ButtonSaveTwo": "Сохранить",
+    "settingYourPropfileTitle": "Настройки вашего профиля",
+    "settingYourPropfileText": "У каждого пользователя Sunny Watt Hour есть свой профиль, в нем можно обновить контакты (e-mail, уникальный никнейм и пароль)",
+    "inputsTitlePassword": "Пароль",
+    "inputsTextPassword": "Введите пароль",
+    "inputOldPasswordPleceholder": "Старый пароль",
+    "inputNewPasswordPleceholder": "Новый пароль",
+    "inputRepeatNewPasswordPleceholder": "Повторите новый пароль"
+}

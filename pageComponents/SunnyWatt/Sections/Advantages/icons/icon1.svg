@@ -1,0 +1,26 @@
+<svg width="98" height="75" viewBox="0 0 98 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M32.1367 12.0805V28.8935L47.0816 37.3623L62.0264 28.8935V12.0805L47.0816 3.73633L32.1367 12.0805Z" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M32.1367 12.7031L47.0816 21.1719L62.0264 12.7031" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M47.0801 37.3621V21.1719" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M34.627 10.5861L47.0812 3.73633L59.5351 10.5861L47.0812 17.4358L34.627 10.5861Z" fill="#FFD011" />
+  <path d="M1 48.1958V65.0087L15.9449 73.4775L30.8897 65.0087V48.1958L15.9449 39.8516L1 48.1958Z" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M1 48.8193L15.9449 57.2881L30.8897 48.8193" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M15.9453 73.4774V57.2871" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M3.49023 46.7013L15.9444 39.8516L28.3983 46.7013L15.9444 53.551L3.49023 46.7013Z" fill="#FFD011" />
+  <path d="M67.0059 48.1958V65.0087L81.9507 73.4775L96.8956 65.0087V48.1958L81.9507 39.8516L67.0059 48.1958Z" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M67.0059 48.8193L81.9507 57.2881L96.8956 48.8193" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M69.4961 46.7013L81.9503 39.8516L94.4042 46.7013L81.9503 53.551L69.4961 46.7013Z" fill="#FFD011" />
+  <path d="M81.9512 73.4774V57.2871" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="15.3225" cy="31.7571" r="2.61351" stroke="black" />
+  <circle cx="40.2302" cy="56.6662" r="2.61351" transform="rotate(90 40.2302 56.6662)" stroke="black" />
+  <circle r="2.61351" transform="matrix(-1 0 0 1 81.3279 31.7571)" stroke="black" />
+  <circle cx="15.3225" cy="23.0403" r="2.61351" stroke="black" />
+  <circle cx="48.949" cy="56.6662" r="2.61351" transform="rotate(90 48.949 56.6662)" stroke="black" />
+  <circle r="2.61351" transform="matrix(-1 0 0 1 81.3279 23.0403)" stroke="black" />
+  <circle cx="15.3225" cy="14.3215" r="2.61351" stroke="black" />
+  <circle cx="57.6658" cy="56.6662" r="2.61351" transform="rotate(90 57.6658 56.6662)" stroke="black" />
+  <circle r="2.61351" transform="matrix(-1 0 0 1 81.3279 14.3215)" stroke="black" />
+  <circle cx="24.0393" cy="14.3215" r="2.61351" stroke="black" />
+  <circle r="2.61351" transform="matrix(-1 0 0 1 72.6111 14.3215)" stroke="black" />
+</svg>
+  

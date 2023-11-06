@@ -1,0 +1,12 @@
+{
+    "WithdrawalTitle": "Вывод",
+    "WithdrawalAvailable": "Доступно",
+    "WithdrawalCommissionWithout": "Можно вывести без комиссии",
+    "WithdrawalBlock": "Вывести",
+    "WithdrawalCheckbox": "Вывести с минимальной комиссией",
+    "WithdrawalCommission": "Комиссия за вывод",
+    "WithdrawalTotle": "Итого будет выведено, с учетом комиссии",
+    "WithdrawalInpitPlaceholder": "Введите адрес кошелька",
+    "ButtonBack": "Назад",
+    "ButtonNext": "Далее"
+}

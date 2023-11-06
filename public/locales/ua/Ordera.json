@@ -1,0 +1,12 @@
+{
+    "ButtonCreate": "Новый ордер",
+    "OrderTalQueues": "ордера в очереди",
+    "OrderTalCreateat": "Дата создания",
+    "OrderTalPrice": "Цена за",
+    "OrderTalAcquired": "Приобретено",
+    "OrderTalRemaining": "Оставшиеся",
+    "OrderTalSpent": "Потрачено",
+    "OrderTalRemainder": "Остаток",
+    "OrderTalStatus": "Статус",
+    "ButtonCancel": "Отменить"
+}

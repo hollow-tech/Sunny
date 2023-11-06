@@ -1,0 +1,23 @@
+{
+    "balanceWalletUSDT": "Ваш кошелек",
+    "buttonLabel": "Пополнить",
+    "balanceCardInfoTitleOne": "Доступно",
+    "balanceCardInfoTitleTwo": "В ордерах",
+    "balanceCardInfoTitleThree": "Выводится",
+    "btnLabel": "Вывести",
+    "BalanceBuyTitle": "Покупка",
+    "BalanceBuySwhTitle": "Текущее количество доступных",
+    "BalanceBuySwhInfo": "Следующая эмиссия состоится завтра",
+    "BalanceSwhPriceTitle": "Цена за",
+    "BalanceSwhPriceInfoOne": "Вы можете приобрести максимум",
+    "BalanceSwhPriceInfoTwo": "потратив 131,04",
+    "BalanceBuyText": "Созданный ордер на покупку SWH или выполняется немедленно (при наличии возможности) или поэтапно, по мере эмиссии SWH в обращение и выполнения предыдущих по очереди ордеров, созданных пользователями. Невыполненный или частично выполненный ордер может быть отменен в любой момент.",
+    "ButtonBuy": "Купить",
+    "CreateOrderForBuy":"Создать ордер на покупку",
+    "TotalText":"Итого будет потрачено:",
+    "TableOrderTitle": "Текущие незакрытые ордера всех пользователей",
+    "TableOrderHeadNumberOrder": "Номер ордера в очереди",
+    "TableOrderHeadSWHT":"Количество заказанных SWHT",
+    "TableOrderDesc": "Порядковые номера Ваших ордеров выделены",
+    "TableOrderDescSpan": "красным"
+}

@@ -1,0 +1,8 @@
+{
+    "StatisticTab": "Статистика баланса",
+    "StatisticTitleDateEnd": "Дата завершения операции",
+    "StatisticTitleBalance": "Изменения в балансе",
+    "StatisticTitleTransactionFee": "Комиссия за операцию",
+    "StatisticTitleCommissionType": "Тип комиссии",
+    "StatisticTitleTransactionType": "Тип операции:"
+}
